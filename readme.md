@@ -1,2 +1,5 @@
-### gitÃüÁî
+### git  å‘½ä»¤
   + git add .
+  + git commit -m "è¯´æ˜"
+  + git push 
+  + git pull
